@@ -1,0 +1,26 @@
+{
+  "name": "@entropia-tools/entropia-log-stash",
+  "version": "1.0.0",
+  "description": "Tools for uploading log files to a configurable github repository for archival and further processing.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcphilip/entropia-log-stash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcphilip/entropia-log-stash/issues"
+  },
+  "homepage": "https://github.com/mcphilip/entropia-log-stash#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
